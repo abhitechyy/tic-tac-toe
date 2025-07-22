@@ -54,6 +54,8 @@ tic-tac-toe/
 
 ```bash
 git clone https://github.com/yourusername/tic-tac-toe.git
+cd tic-tac-toe
+
 
 
 
