@@ -7,10 +7,10 @@ A simple and interactive Tic Tac Toe game built using **HTML**, **CSS**, and **V
 ## 📸 Screenshots
 
 ### 🟢 Game Start
-![Game Start](images/outputplayed.png)
+![Game Start](images/outputintial.png)
 
 ### 🔴 Win State
-![Game End](images/outputintial.png)
+![Game End](images/outputplayed.png)
 
 ---
 
